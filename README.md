@@ -4,7 +4,7 @@ colorizr is a simple gem to colorize strings in the command line terminal. Curre
 
 Samples
 -------
-![alt text](/https://github.com/zhj930924/Survivr-part1/blob/master/sample_colors.PNG "Sample Colors")
+![alt text](https://github.com/zhj930924/Survivr-part1/blob/master/sample_colors.PNG "Sample Colors")
 
 
 Install
